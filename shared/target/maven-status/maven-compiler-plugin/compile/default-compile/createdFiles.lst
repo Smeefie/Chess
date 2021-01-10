@@ -1,0 +1,10 @@
+module-info.class
+shared\MessageOperation.class
+shared\in\MessageRegister.class
+shared\out\StartGameOut.class
+shared\MessageOperationType.class
+shared\out\MessagePlayersOut.class
+shared\BaseMessage.class
+shared\MessageCreator$1.class
+shared\in\StartGame.class
+shared\MessageCreator.class

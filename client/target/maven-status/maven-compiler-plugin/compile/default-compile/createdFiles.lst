@@ -1,0 +1,5 @@
+client\Communicator.class
+client\ICommunicator.class
+client\CommunicatorMessage.class
+module-info.class
+client\CommunicatorClientWebSocket.class

@@ -1,0 +1,17 @@
+communicatorserver\Models\Coordinate.class
+communicatorserver\Models\Pieces\Pawn.class
+communicatorserver\Enums\Col.class
+communicatorserver\Models\Players.class
+communicatorserver\Models\Pieces\Queen.class
+communicatorserver\Models\Player.class
+communicatorserver\Models\Pieces\Knight.class
+communicatorserver\CommunicatorServerWebSocket.class
+communicatorserver\Enums\MoveType.class
+communicatorserver\Models\Pieces\King.class
+communicatorserver\CommunicatorServer.class
+communicatorserver\Models\Pieces\Bishop.class
+communicatorserver\CommunicatorServerWebSocket$1.class
+communicatorserver\Models\Pieces\SharedLogic\SharedMovementLogic.class
+communicatorserver\Models\Board.class
+communicatorserver\Models\Pieces\Piece.class
+communicatorserver\Models\Pieces\Rook.class
